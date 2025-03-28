@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cybersecurity Enthusiast | Developer | Django & WordPress Developer | Penetration Tester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+DevSecOps;Django+%7C+FastAPI+%7C+WordPress;Penetration+Testing+%7C+Ethical+Hacking;Web+Security+%7C+API+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+DevSecOps;Django+%7C+Python+%7C+WordPress;Penetration+Testing+%7C+Ethical+Hacking;Web+Security+%7C+API+Security" alt="Typing SVG" />
 </p>
 
 ---
