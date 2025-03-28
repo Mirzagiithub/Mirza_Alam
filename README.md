@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Alam</h1>
-<h3 align="center">🚀 Cybersecurity Enthusiast | DevSecOps Practitioner | Django & WordPress Developer | Penetration Tester</h3>
+<h3 align="center">🚀 Cybersecurity Enthusiast | Developer | Django & WordPress Developer | Penetration Tester</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+DevSecOps;Django+%7C+FastAPI+%7C+WordPress;Penetration+Testing+%7C+Ethical+Hacking;Web+Security+%7C+API+Security" alt="Typing SVG" />
@@ -32,7 +32,7 @@
 ### 🌱 About Me
 - 🔭 **Currently working on**: Django, WordPress, and Cybersecurity projects.
 - 🌱 **Learning**: Advanced penetration testing and cybersecurity techniques.
-- 💬 **Ask me about**: Web security, API security, and web development.
+- 💬 **Ask me about**: Web security, Developer.
 - 📚 **Passions**: Contributing to open-source projects and sharing cybersecurity knowledge.
 - ⚡ **Fun fact**: I love coding software and hunting for new vulnerabilities!
 
